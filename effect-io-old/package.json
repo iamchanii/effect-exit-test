@@ -1,0 +1,8 @@
+{
+  "name": "effect-io-old",
+  "type": "module",
+  "dependencies": {
+    "@effect/data": "^0.17.1",
+    "@effect/io": "0.30"
+  }
+}

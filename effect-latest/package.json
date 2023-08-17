@@ -1,0 +1,7 @@
+{
+  "name": "effect-latest",
+  "type": "module",
+  "dependencies": {
+    "effect": "2.0.0-next.25"
+  }
+}

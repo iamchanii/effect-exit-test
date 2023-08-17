@@ -1,0 +1,6 @@
+{
+  "name": "effect-exit-test",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
